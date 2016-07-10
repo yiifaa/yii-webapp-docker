@@ -1,0 +1,12 @@
+{
+  "name": "express-docker",
+  "version": "1.0.0",
+  "description": "基于Express Web框架的Docker项目",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",	
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
